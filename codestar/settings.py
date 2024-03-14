@@ -31,6 +31,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '8000-rikkiebobby-attempt2-eibsl32qjhy.ws-eu109.gitpod.io',
+    '8000-rikkiebobby-attempt2-eibsl32qjhy.ws-eu110.gitpod.io',
     '.herokuapp.com',
     ]
 
@@ -99,6 +100,7 @@ CSRF_TRUSTED_ORIGINS = [
     "https://.gitpod.com",
     "https://.github.com",
     "https://8000-rikkiebobby-attempt2-eibsl32qjhy.ws-eu109.gitpod.io",
+    "https://8000-rikkiebobby-attempt2-eibsl32qjhy.ws-eu110.gitpod.io",
 ]
 
 
